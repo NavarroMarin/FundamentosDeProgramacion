@@ -1,0 +1,9 @@
+git init
+git clone <url>
+git add .
+git commit -m "texto"
+git push
+git push origin master
+git add <archivo>
+git add --all
+git add *.txt
